@@ -13,6 +13,6 @@ To run from terminal:
     
 or without first compiling by typing:
 
-    jar -jar BikeStationsDisplay.jar
+    java -jar BikeStationsDisplay.jar
     
 or run outside terminal by double-clicking the .jar file.
